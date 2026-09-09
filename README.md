@@ -13,6 +13,8 @@ Tools used: Python IDLE, Visual Studio
 
 
 Projects:
-- GCSE maths python program, with two components:
+- GCSE maths python program, which was created with the objective to help GCSE students study for maths.
+- It consists of two components:
+  
   - A GCSE maths notes section, where the user can view notes of various different maths topics
   - A multiple choice GCSE maths quiz, where the user is asked randomly selected, multiple choice GCSE maths questions
