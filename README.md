@@ -10,6 +10,7 @@ Python libraries: Pygame, PyQt6 (currently learning)
 
 Tools used: Python IDLE, Visual Studio
 
+
 Projects:
 - GCSE maths python program, with two components:
   - A GCSE maths notes section, where the user can view notes of various different maths topics
