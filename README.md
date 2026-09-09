@@ -3,6 +3,7 @@
 I am an aspiring software engineer/ computer science apprentice. I love solving problems through using code, and am eager to develop my skills through a degree apprenticeship.
 
 Skills:
+
 languages: Python
 
 Python libraries: Pygame, PyQt6 (currently learning)
