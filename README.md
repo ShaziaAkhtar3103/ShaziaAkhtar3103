@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Shazia
 
-<!--
-**ShaziaAkhtar3103/ShaziaAkhtar3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring software engineer/ computer science apprentice. I love solving problems through using code, and am eager to develop my skills through a degree apprenticeship.
 
-Here are some ideas to get you started:
+Skills:
+languages: Python
+Python libraries: Pygame, PyQt6 (currently learning)
+Tools used: Python IDLE, Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- GCSE maths python program, with two components:
+  - A GCSE maths notes section, where the user can view notes of various different maths topics
+  - A multiple choice GCSE maths quiz, where the user is asked randomly selected, multiple choice GCSE maths questions
