@@ -4,7 +4,9 @@ I am an aspiring software engineer/ computer science apprentice. I love solving 
 
 Skills:
 languages: Python
+
 Python libraries: Pygame, PyQt6 (currently learning)
+
 Tools used: Python IDLE, Visual Studio
 
 Projects:
