@@ -17,3 +17,5 @@ Projects:
  It consists of two components:
   - A GCSE maths notes section, where the user can view notes of various different maths topics
   - A multiple choice GCSE maths quiz, where the user is asked randomly selected, multiple choice GCSE maths questions
+
+- A study timer, where the user can pick a time for this this timer run in the background whilst they study.
