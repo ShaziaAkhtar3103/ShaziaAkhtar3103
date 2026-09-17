@@ -6,7 +6,7 @@ Skills:
 
 languages: Python
 
-Python libraries: Pygame, PyQt6 (currently learning)
+Python libraries: Pygame, tkinter, PyQt6 (currently learning)
 
 Tools used: Python IDLE, Visual Studio
 
